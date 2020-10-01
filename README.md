@@ -1,5 +1,5 @@
  # 预览
- <p align="center">个人资料壁纸</p>
+> <p align="center">个人资料壁纸</p>
 
  
  <p align="center">
